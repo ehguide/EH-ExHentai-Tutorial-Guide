@@ -53,7 +53,10 @@
 > 里站（`https://exhentai.org`）在访问失败时（如遇到白屏或无效 IP），会强制在浏览器写入一组代表“非法用户”的 Cookie 缓存。如果不删缓存直接再次测试，服务器会直接跳过校验拦截并继续返回白屏！
 
 ### 2. 标准测试步骤：
-1. **清除 Cookie 数据：** 访问里站出现白屏时，点击浏览器网址栏旁边的“小锁图标”，找到并清除 `exhentai.org` 的所有 Cookie 及站点数据。（手机或 APP 端如果不确定，可以直接清除浏览器的全部浏览数据）。
+1. **清除 Cookie 数据：** 访问里站出现白屏时，点击浏览器网址栏旁边的“小图标”，找到并清除 `exhentai.org` 的所有 Cookie 及站点数据。（手机或 APP 端如果不确定，可以直接清除浏览器的全部浏览数据）。
+<img width="389" height="429" alt="image" src="https://github.com/user-attachments/assets/9ec8da51-19a7-4e9e-8867-e3b5b98b0e8c" />
+<img width="627" height="468" alt="image" src="https://github.com/user-attachments/assets/25ed7938-361a-49b0-8d57-934a37d0027f" />
+
 2. **登录表站：** 确保先访问论坛（`https://forums.e-hentai.org/`）并处于正常登录状态。
 3. **重新访问里站：** 新建标签页，再次访问 `https://exhentai.org`：
    * **如果依然白屏/熊猫图：** 说明账号权限尚在审核中，或者当前 IP 代理不合格，请过几天再试。
