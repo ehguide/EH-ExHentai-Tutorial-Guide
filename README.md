@@ -17,7 +17,7 @@
 ## 🛠️ 第一步：前往官方注册页面
 
 1. 开启代理后，在浏览器无痕模式中打开官方论坛注册链接：`https://forums.e-hentai.org/index.php?act=Reg`
-2. 页面打开后，滑动到底部勾选同意服务条款，点击右下角 **“Submit Form”** 按钮提交。
+2. 页面打开后，滑动到底部勾选同意服务条款，点击右下角 **“ Register”** 按钮提交。
 
 <img width="877" height="568" alt="同意注册协议" src="https://github.com/user-attachments/assets/920cde94-91f7-4852-be73-c91782352a29" />
 
